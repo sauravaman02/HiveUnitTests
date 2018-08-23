@@ -1,0 +1,27 @@
+# eclipse
+.settings
+.classpath
+.project
+.scala_dependencies
+
+# idea
+.idea
+*.iml
+.iml
+modules/*.iml
+
+# log
+velocity.log
+build.log
+
+# building
+target
+
+# mac
+.DS_Store
+
+dependency-reduced-pom.xml
+tools/uigen/velocity.log.1
+derby.log
+metastore_db
+
